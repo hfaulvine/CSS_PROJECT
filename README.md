@@ -25,6 +25,6 @@ To run this project locally, ensure you have Python and Pandas installed. You ca
 #Usage
 This project utilizes Pandas and Python for data manipulation and analysis.
 
-#Contributing
+#Contributing:
 Contributions are welcome! If you have suggestions or improvements, feel free to submit a pull request or open an issue. Please adhere to the following guidelines.
 Thank you for your interest in this project!
