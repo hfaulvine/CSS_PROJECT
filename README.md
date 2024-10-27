@@ -3,7 +3,9 @@
 This project focuses on performing ETL (Extract, Transform, Load) and EDA (Exploratory Data Analysis) on a movie dataset to extract meaningful insights. By utilizing Python's Pandas library, we will clean and analyze the dataset to answer various quiz questions related to movie ratings, revenues, and trends.
 
 #Project Content
+
 Dataset: movie_dataset.csv 
+
 Objective: To clean the dataset and analyze it to find insights and answer specific questions regarding movie performance and characteristics.
 
 #Methodology
