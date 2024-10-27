@@ -5,16 +5,18 @@ This project focuses on performing ETL (Extract, Transform, Load) and EDA (Explo
 #Project Content
 
 Dataset: movie_dataset.csv 
-
 Objective: To clean the dataset and analyze it to find insights and answer specific questions regarding movie performance and characteristics.
 
 #Methodology
+
 ##Data Cleaning:
 Identify and address column names with spaces.
 Handle missing values by filling them with mean.
+
 ##Data Analysis:
 Use Pandas for statistical analysis and visualizations to uncover insights.
 Answer quiz questions related to movie ratings, revenue, release years, directors, and genres.
+
 ##Key Questions Addressed:
 Highest rated movie,average revenue of all movies,movies released in specific years,movies directed by notable directors,common actors and genres.
 
